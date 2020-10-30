@@ -11,7 +11,7 @@
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Nellions Moving and Relocations Ltd, Nairobi Kenya" />
+<meta property="og:title" content="Mogish Movers, Nairobi Kenya" />
 <meta property="og:url" content="" />
 <meta property="og:site_name" content="Mogish" />
 <meta name="twitter:card" content="summary_large_image" />
@@ -33,27 +33,7 @@
 
 <body data-aos-easing="ease-out-back" data-aos-duration="1000" data-aos-delay="0">
 
-	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5M5ZLQR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-        <script type="text/javascript">
-            window.cookieconsent_options = {"message": "This website uses cookies to ensure you get the best experience on our website", "dismiss": "I understand!", "learnMore": "Learn more", "link": "https://nellions.co.ke/moving-resources/nellions-privacy-policy/", "theme": "dark-top"};
-        </script>
-
-        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
-
-        <!--        <div class="banner-wrapper">
-                    <div id="cookie-banner" class="cookie-banner">
-                        <div class="row">
-                            <p class="medium-copy__black">To give you the best possible experience, this website uses cookies. <br />By continuing to browse this website, you declare to accept the use of cookies.</p>
-                            <a class="button btn-primary__purple" href="#">ACCEPT</a>
-                        </div>
-                    </div>
-                </div>-->
-
-
+	
 	<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
 		<div class="container">
 		  
