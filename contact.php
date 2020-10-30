@@ -5,7 +5,7 @@
 		        <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254788000001", // WhatsApp number
+                    whatsapp: "+254722964824", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -45,48 +45,52 @@
 	<hr style=" width: 80px;border: 1px solid blue;text-align:left;margin-left:0">
 
 			Please fill out the form below and we will get back to you as soon as possible<br><br>
-			<form class="form-inline"role="form">
-				<div class="col"style="">
-					<input type="name"placeholder="Name*"class="form-control mb-2 mr-sm-2"id="name">
+			
+			<form class="" role="form" method="post" action = "mail_handler.php">
+				<div class="row">
+				<div class="col">
+					<input name ="customerName" type="name" placeholder="Name*"class="form-control mb-2 mr-sm-2"id="name">
 				</div>
 				<div class="col">
-					<input type="phone"placeholder="Phone*"class="form-control mb-2 mr-sm-2"id="phone">
-				</div><br><br>
+					<input name="phoneNumber" type="phone" placeholder="Phone*"class="form-control mb-2 mr-sm-2"id="phone">
+				</div></div><br><br>
+				<div class="row">
 				<div class="col">
-					<input type="email"placeholder="Email*"class="form-control"id="email">
+					<input name="customerEmail" type="email" placeholder="Email*"class="form-control"id="email">
 				</div>
-								<div class="col">
-					<select class="form-control" id="select">
+					<div class="col">
+					<select class="form-control" id="select" name= "service">
 						<option>Select Service</option>
 						<option>Home Moving</option>
     					<option>Office Moving</option>
     					<option>Settling Services</option>
    						<option>Others</option>
   					</select>
-				</div><br><br>
-
-
+				</div></div><br><br>
+				<div class="row">
 				<div class="col">
-					<input type="name"class="form-control"placeholder="Moving From*">
+					<input name="movingFrom" type="name"class="form-control"placeholder="Moving From*">
 				</div>
 				<div class="col">
-					<input type="name"class="form-control"placeholder="Moving To*">
-				</div><br><br>
+					<input name="movingTo" type="name"class="form-control"placeholder="Moving To*">
+				</div></div><br><br>
+				<div class="row">
 				<div class="col">
-					<input type="name"class="form-control"placeholder="House Size**">
+					<input name="houseSize" type="name"class="form-control"placeholder="House Size**">
 				</div>
 				<div class="col">
-					<input type="date" name="bday">
-				</div><br> <br><br>
-				<div class="form-group">
-					<label> Additional Services:</label><br><br>
-					<label class="col"><input type="checkbox" value="">Option 1</label>
-<label class="col"><input type="checkbox" value="">Option 2</label>
-				</div><br><br><br>
-				<div class="">
-				<button type="button" class="btn btn-primary btn-lg">Submit</button></div>
+					<input type="date" name="date">
+				</div></div><br> <br><br>
 			
-			</form></div>
+				<div>
+				<input style="background-color:#008B8B"type="submit" name="submit" value="Submit" class="btn btn-primary btn-lg">
+			</div>
+			</form>
+			<br><br><br>
+		
+
+			</div>
+
 			<div class="col-sm-3">
 				<h3>Location</h3>
 				Buruburu, Nairobi Kenya
@@ -94,9 +98,9 @@
 						<div class="col-sm-3">
 				<h3>Contact Info</h3>
 				<p>Tel:
-				<a href="#">+254 722964824</a></p>
+				<a href="tel:+254 722964824">+254 722964824</a></p>
 				<p>Email:
-				<a href="#">Email</a></p>
+				<a href="mailto:protichcornelius@gmail.com">protichcornelius@gmail.com</a></p>
 			</div>
 		</div>
 		</div>
@@ -106,11 +110,6 @@
 
 
 <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
-
-
-
-
-
 
 
 <?php include 'footer.php'?>

@@ -6,7 +6,7 @@
 		        <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254788000001", // WhatsApp number
+                    whatsapp: "+254722964824", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -36,35 +36,24 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active"style="">
-    	      <div class="carousel-caption d-none d-md-block">
+      <div class="container">
+      
     	      
-  	 <div class="content"style=" position: absolute; /* Position the background text */
-  bottom: 200px; /* At the bottom. Use top:0 to append it to the top */
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
-  padding: 20px;">
-    
-    <h1>Changing The Face Of Moving And Relocations In Kenya         </h1>
+        <div class="carousel-caption">
+          <h1>Changing The Face Of Moving And Relocations In Kenya         </h1>
     <p>Our services are available in Nairobi</p>
-    <button style="border-radius: 30px;background: #9400D3;">GET A FREE QUOTE</button>
-  </div>
-</div>
+    <button href="index.php"style="border-radius: 30px;color:white;background:  #008B8B;">GET A FREE QUOTE</button>
+        </div>
+      </div>
+  
       <img src="img/14.jpg" style="max-width: 100%;height:600px;" class="d-block w-100" alt="...">
     </div>
 
     <div class="carousel-item">
-    	    	      <div class="carousel-caption d-none d-md-block">
-    	      
-  	 <div class="content"style=" position: absolute; /* Position the background text */
-  bottom: 200px; /* At the bottom. Use top:0 to append it to the top */
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
-  padding: 20px;">
-    
+    	    	      
+    	                 <div class="container">
+        <div class="carousel-caption">
+  	
     <h1 style="font-family: sans-serif;">Real Estate Excellence</h1>
     <p>One of the best moving company in Nairobi</p>
     <a href="services.php">Learn More</a>
@@ -75,19 +64,14 @@
     </div>
     <div class="carousel-item">
 
-    	    	      <div class="carousel-caption d-none d-md-block">
+    	    	  
     	      
-  	 <div class="content"style=" position: absolute; /* Position the background text */
-  bottom: 200px; /* At the bottom. Use top:0 to append it to the top */
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
-  padding: 20px;">
+  	             <div class="container">
+        <div class="carousel-caption">
     
-    <h1>  Are You On The Move?</h1>
+    <h1>Are You On The Move?</h1>
     <p>Get High Level Service in the Moving and Relocations Industry.</p>
-    <button style="border-radius: 30px;background: #9400D3;">GET FREE QUOTE</button>
+    <button style="border-radius: 30px;color:white;background:  #008B8B;">GET FREE QUOTE</button>
   </div>
 </div>
       <img src="img/16.jpg" style="max-width: 100%;height:600px;"class="d-block w-100" alt="...">
@@ -105,8 +89,8 @@
 </div>
 <br><br>
 <div class="container">
-	<h2 style="text-align: center;color:#9400D3;font-family: Arial, Helvetica, sans-serif;">Welcome to Mogish Movers offering moving services in Nairobi kenya</h2>
-	<hr style="border: 1px dashed #9400D3;text-align: left;width:50%;">
+	<h2 style="text-align: center;color: #008B8B;font-family: Arial, Helvetica, sans-serif;">Welcome to Mogish Movers offering moving services in Nairobi kenya</h2>
+	<hr style="border: 1px dashed  #008B8B;text-align: left;width:50%;">
 
 	<p> Mogish movers is a premium moving services located in Nairobi Kenya. It offers home and office moving. Its main intention is to leave a positive impact to its customers through customer satisfaction</p>
 	<p> We pride ourself in dedecated and proffesianal teams whose intention is to ensure our clients are satisfied</p>
@@ -128,7 +112,7 @@
 		<div class="card-body">
     <h5 class="card-title">Trusted Movers in Kenya</h5>
     <p class="card-text">We are the one of the best Movers in Kenya and we ensure customer satisfaction.</p>
-    <a href="services.php" class="btn btn-primary">Go somewhere</a>
+    <a href="services.php" style="background: #008B8B;"class="btn btn-success">Read More</a>
   </div>
 </div>
 </div>
@@ -137,7 +121,7 @@
 		<div class="card-body">
     <h5 class="card-title">Proffesional Services</h5>
     <p class="card-text">We Provide high moving quality services at affordable prices.</p>
-    <a href="services.php" class="btn btn-primary">Go somewhere</a>
+    <a href="services.php" style="background: #008B8B;"class="btn btn-primary">Read More</a>
   </div>
 </div>
 </div>
@@ -146,7 +130,7 @@
 		<div class="card-body">
     <h5 class="card-title">Affordable Moving Services</h5>
     <p class="card-text">Our services are offordable and of good quality..</p>
-    <a href="services.php" class="btn btn-primary">Go somewhere</a>
+    <a href="services.php" style="background: #008B8B;"class="btn btn-primary">Read More</a>
   </div>
 </div>
 </div></div>
@@ -156,7 +140,7 @@
 
 <div class="jumbotron">
 <div class="container"style="">
-	<h1><strong>Our Services</strong></h1>
+	<h1 style="text-align: center;"><strong>Our Services</strong></h1>
 	<hr style="border-top: 1px solid blue;width:50%;">
 	<p>Our able team ensures we move you with ease practically and proffessionally and makes sures our clients needs are met with no inconviniences.</p>
 	<p>Having instilled with us honesty and timeliness you can trust our process to ensure your satisfaction any time</p>
@@ -230,20 +214,20 @@ function carousel() {
 					<p style="font-size:15px;color:black;">Mogish Movers are committed to quality and security means by using only our company-trained staff for our packing and removal services.</p>
 				</div><br> <br>
 				<div class="col-sm-6">
-					<form>
+					<form method="post" action="mailto:chemumauryn99@gmail.com"method=”POST” enctype=”multipart/form-data” name=”EmailForm”>
 					<div class="row">
     <div class="col">
-      <input type="text" class="form-control" placeholder="Your Name">
+      <input type="text" class="form-control" placeholder="Your Name"name="name">
     </div>
   						<div class="col">
-  							 <input type="email" class="form-control" id="email"placeholder="Your Email*">
+  							 <input type="email" class="form-control" id="email"placeholder="Your Email*"name="email">
 				</div></div><br>
 				<div class="row">
 					<div class="col">
-  							 <input type="phone" class="form-control" id="phone"placeholder="Your Phone*">
+  							 <input type="phone" class="form-control" id="phone"placeholder="Your Phone*"name="phone">
 				</div>
 				<div class="col">
-					<select class="form-control" id="select">
+					<select class="form-control" id="select"name="service">
 						<option>Select Service</option>
 						<option>Home Moving</option>
     					<option>Office Moving</option>
@@ -254,17 +238,17 @@ function carousel() {
 				  						</div>
 				<div class="row">
 				<div class="col">
-					<input type="name"class="form-control"placeholder="Moving From*">
+					<input type="name"class="form-control"placeholder="Moving From*"name="to">
 				</div>
 				<div class="col">
-					<input type="name"class="form-control"placeholder="Moving To*">
+					<input type="name"class="form-control"placeholder="Moving To*"name="from">
 				</div></div></form><br>
 				<div class="row">
 				<div class="col">
-					<input type="name"class="form-control"placeholder="House Size**">
+					<input type="name"class="form-control"placeholder="House Size**"name="size">
 				</div>
 				<div class="col">
-					<input type="date" name="bday">
+					<input type="date" name="bday"name="date">
 				</div></div><br> <br>
 				<div class="row">
 				<div class="col">
@@ -279,7 +263,8 @@ function carousel() {
 </div>
 				</div></div><br><br>
 				<div class="">
-				<button type="button" class="btn btn-primary">Submit</button></div>
+
+				<button type="button" class="btn btn-primary"name="send_message_btn">Submit</button></div>
 			</div>
 		</form>
 	</div>

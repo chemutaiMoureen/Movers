@@ -16,7 +16,7 @@
             <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254788000001", // WhatsApp number
+                    whatsapp: "+254722964824", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -74,7 +74,7 @@
   <h3>Need any Relocation Services at affordable prices?</h3>
   </div><br><br>
   <div class="">
-  <button type="button" class="btn btn-primary btn-lg"><a style="color:white;"href="index.php">Get A Free Quote</a></button>
+  <button type="button" class="btn btn-primary btn-lg"style="background:#008B8B;"><a style="color:white;"href="index.php">Get A Free Quote</a></button>
   </div>
 </div></div>
 </div>

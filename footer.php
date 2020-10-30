@@ -85,7 +85,7 @@
         <!-- Content -->
         <h6 class="text-uppercase font-weight-bold">Mogish Movers</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-        <p>Let Alpha movers help you meet your needs call us on +254 7 for all your moving needs and we will give you out response immediately.</p>
+        <p>Let Alpha movers help you meet your needs call us on +254 722964824 for all your moving needs and we will give you out response immediately.</p>
 
       </div>
       <!-- Grid column -->
@@ -136,11 +136,10 @@
           <p>
           <i class="fa fa-home mr-3"></i>  Nairobi  , Kenya</p>
         <p>
-          <i class="fa fa-envelope mr-3"></i> info@example.com</p>
+          <i class="fa fa-envelope mr-3"></i> protichcornelius@gmail.com</p>
         <p>
-          <i class="fa fa-phone mr-3"></i> + +254 790 292140</p>
-        <p>
-          <i class="fa fa-print mr-3"></i> + 01 234 567 89</p>
+          <i class="fa fa-phone mr-3"></i> +254 722964824</p>
+
 
       </div>
       <!-- Grid column -->
