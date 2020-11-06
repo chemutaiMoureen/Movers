@@ -2,7 +2,7 @@
 <div class=""style="position: relative;
   text-align: center;
   color: white;">
-  <img src="img/28.jpg"style="width: 100%;height: 450px;">
+  <img src="img/19.jpg"style="width: 100%;height: 300px;">
   <div class="bottom-left"style="position: absolute;
   bottom: 150px;
   left: 60px;
@@ -16,7 +16,7 @@
             <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254722964824", // WhatsApp number
+                    whatsapp: "+254722538844", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -33,56 +33,74 @@
             })();
         </script>
 
-<div class="container"style="">
+
+<div class="container">
   <div class="row">
   <a class="col-sm-2"href="index.php"style="color: black;"><strong>Mogish Movers</strong></a>
   <a class="col-sm-2"href="services.php"style="color: black;">>Our Services</a>>Settling Services
-</div>
+</div></div>
 <hr style="">
 
 <br>
 <div class="fluid-container">
-<div class="row" style="clear:both">
- 
+ <div class="row">
       <div class="col-lg-4">
     <div class="list-group" style="margin-left:0px">
  
    <a href="services.php" class="list-group-item">
     All Services</a>
-  
- <a href="home.php" class="list-group-item ">Home Moving
-  </a>
-  <a href="office.php" class="list-group-item ">Office Moving
-  </a>
-  <a href="settling.php" class="list-group-item active">Settling Services
-  </a>
+   
+                            <a href="home.php"class="list-group-item ">Domestic and inter-county Moving</a>
+                            <a href="office.php"class="list-group-item">Office Moving and Relocation</a>
+                            <a href="settling.php"class="list-group-item active">Settling Services</a>
+                            <a href="cleaning.php"class="list-group-item">Cleaning Services And Pest Control</a>
+                            <a href="courier.php"class="list-group-item">Courier Services</a>
+                            <a href="warehousing.php"class="list-group-item ">Warehousing And Storage Services</a>
+                            <a href="International.php"class="list-group-item">International Moving And Relocation</a>
+                            <a href="packing.php"class="list-group-item">Packing And Crating Services</a>
+                            <a href="services.php"class="list-group-item">Tv Installation</a>
+                            <a href="services.php"class="list-group-item">DSTV Relocation</a>
+                            <a href="pet.php"class="list-group-item">Pet Relocation</a>
+                            <a href="machine.php"class="list-group-item">Machine Relocation</a>
+                        </ul>
+ 
 </div>
 </div>
 
-
-
+ 
 <div class="col-lg-8">
-  <p>Mogish Movers understands that relocating an office is a very delicate undertaking. Mogish movers Kenya Limited has requisite materials, tools and equipment to handle such a move.</p>
+  <img style="width:650px;height: 500px;"src="img/28.jpg"><br><br>
+  <div class="col">
+  <p>Whether you are moving within the apartment, estate, city or whether you are shifting across cities, Mogish Movers will make your move hustle free and you will not realize how easy and convenient it is to move.</p><p>
+  Mogish Movers will provide you with packing materials to pack your sensitive and private items.</p></div>
+  <div class="col">
+    We will conduct a pre move survey in order to establish the optimal nature and type of resources required to move.
 
-<p>Mogish Movers Kenya Limited will plan your move with your requirements, conduct a thorough pre-move packing, avail necessary equipment like safe movers, cabinet dis-assembles, trollies, fork lifts etc. All electronics will be packed in high quality corrugated boxes, books, stationery and office tools will be packed in our branded moving crates, and furniture wrapped with microfiber mover blankets. Mogish Movers Kenya will apply reusable and recyclable materials during execution of any move. Mogish Movers aim is to provide superlative services to you while respecting the planet earth.</p>
-<div class="col-lg-4">
-    <img style="width:700px;height: 500px;"src="img/28.jpg"><br><br></div>
-
-</div>
-<p>For more information, please click <strong>Contact Us</strong> and you will receive further options of reaching us.</p>
+Mogish Movers will visit your premises and engage you so as to understand your requirements, timelines and expectations on the relocation Mogish Movers will provide you with details and the entire process of executing your Move. <p>Whether you are looking for movers in Nairobi; Movers in Kenya; Local House Moves; Domestic House Move or just Moving my home services; Mogish Movers will be here at your service and call.</p></div><br>
+<br><br>
 <div class="">
   <h3>Need any Relocation Services at affordable prices?</h3>
   </div><br><br>
   <div class="">
-  <button type="button" class="btn btn-primary btn-lg"style="background:#008B8B;"><a style="color:white;"href="index.php">Get A Free Quote</a></button>
+  <button  type="button" class="btn btn-primary btn-lg"style="background-color: #008B8B;"><a style="color: white;" href="free.php">Get A Free Quote</a></button>
   </div>
+
 </div></div>
 </div>
 </div>
 </div><br><br>
 
 
-</body> 
-
+<script src="assets/vendors/popper.js/popper.min.js"></script>
+    <script src="assets/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="assets/vendors/aos/aos.js"></script>
+    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script>
+        AOS.init({
+            duration: 2000
+        });
+      </script>
 
 <?php include 'footer.php'?>
+  

@@ -21,125 +21,143 @@
 
 /* Facebook */
 .fa-facebook {
-    color: black;
+    color: white;
 }
 
 /* Twitter */
 .fa-twitter {
 
-  color: black;
+  color: white;
 }
 .fa-google {
 
-  color: black;
+  color: white;
 }
 
 .fa-instagram {
   
-  color: black;
+  color: white;
 }
 
-
-
 </style>
+
+
+
+
+
 <!-- Footer -->
-<footer class="page-footer font-small unique-color-dark sticky-footer"style="background-color: #001a1a;color:white;">
-  <div style="background-color: #708090;top:2px;">
-    <div class="container"style="height:70px;bottom: 20px;">
-
-      <!-- Grid row-->
-      <div class="row py-4 d-flex align-items-center"style="top: 2px;bottom: 10px;">
-
-        <!-- Grid column -->
-        <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
-          <h5 class="mb-0">Get connected with us on social networks!</h5>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-6 col-lg-7 text-center text-md-right">
-          <!-- Add font awesome icons -->
-        <a href="#" class="fa fa-facebook"></a>
-        <a href="#" class="fa fa-twitter"></a>
-        <a href="#" class="fa fa-google"></a>
-        <a href="#" class="fa fa-instagram"></a>
-        
-        </div>
-        <!-- Grid column -->
-
-      </div>
-      <!-- Grid row-->
-
-    </div>
-  </div>
+<footer class="page-footer font-small mdb-color pt-4" style="background:#0a0a29;color:white;">
 
   <!-- Footer Links -->
-  <div class="container text-center text-md-left mt-5">
+  <div class="container text-center text-md-left">
 
-    <!-- Grid row -->
-    <div class="row mt-3">
+    <!-- Footer links -->
+    <div class="row text-center text-md-left mt-3 pb-3">
 
       <!-- Grid column -->
-      <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-
-        <!-- Content -->
-        <h6 class="text-uppercase font-weight-bold">Mogish Movers</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-        <p>Let Alpha movers help you meet your needs call us on +254 722964824 for all your moving needs and we will give you out response immediately.</p>
-
+      <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+        <h6 class="text-uppercase mb-4 font-weight-bold">Mogish Movers</h6>
+        <p>Let Mogish movers help you meet your needs call us on +254722964824/+254724444297 for all your moving needs and we will give you out response immediately.</p>
       </div>
       <!-- Grid column -->
 
+      <hr class="w-100 clearfix d-md-none">
+
       <!-- Grid column -->
-      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-
-        <!-- Links -->
-        <h6 class="text-uppercase font-weight-bold">Our Services</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+        <h6 class="text-uppercase mb-4 font-weight-bold">Our Services</h6>
         <p>
-          <a href="home.php">Home Moving</a>
+          <a href="home.php"style="color:white;">Home Moving</a>
         </p>
         <p>
-          <a href="office.php">Office moving</a>
+          <a href="office.php"style="color:white">Office Moving</a>
         </p>
         <p>
-          <a href="settling.php">Settling Services</a>
+          <a href="setting.php"style="color:white;">Settling Services</a>
         </p>
-
-
+        <p>
+         Tv Mounting
+        </p>
+        <p>
+          Dstv Installation
+        </p>
       </div>
       <!-- Grid column -->
 
-      <!-- Grid column -->
-      <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+      <hr class="w-100 clearfix d-md-none">
 
-        <!-- Links -->
-        <h6 class="text-uppercase font-weight-bold">Business Hours</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-        <p>
+      <!-- Grid column -->
+      <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+        <h6 class="text-uppercase mb-4 font-weight-bold">Business Hours</h6>
+                <p>
           Our Services is available 24 hours a day 7 days a week
         </p>
         <p>
          Monday-Sunday 24 hours
         </p>
 
+      </div>
+
+      <!-- Grid column -->
+      <hr class="w-100 clearfix d-md-none">
+
+      <!-- Grid column -->
+      <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+        <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
+        <p>
+          <i class="fa fa-home mr-3"></i> Buruburu, Nairobi Kenya</p>
+        <p>
+          <i class="fa fa-envelope mr-3"></i>protichcornelius@gmail.com</p>
+        <p>
+          <i class="fa fa-phone mr-3"></i>0722538844</p>
+        <p>
+          <i class="fa fa-phone mr-3"></i>0724444297</p>
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Footer links -->
+
+    <hr>
+
+    <!-- Grid row -->
+    <div class="row d-flex align-items-center">
+
+      <!-- Grid column -->
+      <div class="col-md-7 col-lg-8">
+
+        <!--Copyright-->
+        <p class="text-center text-md-left">© 2020 Copyright:
+          <a href="#">
+            <strong> Mogish Movers</strong>
+          </a>
+        </p>
 
       </div>
       <!-- Grid column -->
 
       <!-- Grid column -->
-      <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+      <div class="col-md-5 col-lg-4 ml-lg-0">
 
-        <!-- Links -->
-        <h6 class="text-uppercase font-weight-bold">Contact</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>
-          <i class="fa fa-home mr-3"></i>  Nairobi  , Kenya</p>
-        <p>
-          <i class="fa fa-envelope mr-3"></i> protichcornelius@gmail.com</p>
-        <p>
-          <i class="fa fa-phone mr-3"></i> +254 722964824</p>
-
+        <!-- Social buttons -->
+        <div class="text-center text-md-right">
+          <ul class="list-unstyled list-inline">
+            <li class="list-inline-item">
+                          <a href="#" target="_blank"><i class="fa fa-facebook"></i> </a>
+                        </li>
+                        <li class="list-inline-item">
+                          <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                        </li>
+                        
+                        <li class="list-inline-item">
+                          <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                          <a href="#" target="_blank"><i class="fa fa-google"></i> </a>
+                        </li>
+                      
+          </ul>
+        </div>
 
       </div>
       <!-- Grid column -->
@@ -149,12 +167,6 @@
 
   </div>
   <!-- Footer Links -->
-
-  <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="index.php"> Mogish Movers</a>
-  </div>
-  <!-- Copyright -->
 
 </footer>
 <!-- Footer -->

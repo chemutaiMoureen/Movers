@@ -5,7 +5,7 @@
                 <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254722964824", // WhatsApp number
+                    whatsapp: "+254722538844", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -41,34 +41,34 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/20.jpg">
-                    <img style="width: 360px;height:250px;"src="img/20.jpg" alt="Park">
+                    <img style="width: 360px;height:250px;"src="img/20.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/21.jpg">
-                    <img style="width: 360px;height:250px;" src="img/21.jpg" alt="Bridge">
+                    <img style="width: 360px;height:250px;" src="img/21.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/22.jpg">
-                    <img style="width: 360px;height:250px;"src="img/22.jpg" alt="Tunnel">
+                    <img style="width: 360px;height:250px;"src="img/22.jpg" alt="Mogish">
                 </a>
             </div>
         </div><br><br>
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/23.jpg">
-                    <img style="width: 360px;height:250px;"src="img/23.jpg" alt="Coast">
+                    <img style="width: 360px;height:250px;"src="img/23.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/24.jpg">
-                    <img style="width: 360px;height:250px;"src="img/24.jpg" alt="Rails">
+                    <img style="width: 360px;height:250px;"src="img/24.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/19.jpg">
-                    <img style="width: 360px;height:250px;"src="img/19.jpg" alt="Traffic">
+                    <img style="width: 360px;height:250px;"src="img/19.jpg" alt="Mogish">
                 </a>
             </div>
         </div>
@@ -76,12 +76,12 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/18.jpg">
-                    <img style="width: 360px;height:250px;"src="img/18.jpg" alt="Rocks">
+                    <img style="width: 360px;height:250px;"src="img/18.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="img/17.jpg">
-                    <img style="width: 360px;height:250px;"src="img/17.jpg" alt="Benches">
+                    <img style="width: 360px;height:250px;"src="img/17.jpg" alt="Mogish">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">

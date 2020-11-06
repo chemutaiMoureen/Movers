@@ -5,7 +5,7 @@
 		        <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254722964824", // WhatsApp number
+                    whatsapp: "+254722538844", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -83,7 +83,7 @@
 				</div></div><br> <br><br>
 			
 				<div>
-				<input style="background-color:#008B8B"type="submit" name="submit" value="Submit" class="btn btn-primary btn-lg">
+				<input style="background-color:#00004d"type="submit" name="submit" value="Submit" class="btn btn-primary btn-lg">
 			</div>
 			</form>
 			<br><br><br>
@@ -98,7 +98,7 @@
 						<div class="col-sm-3">
 				<h3>Contact Info</h3>
 				<p>Tel:
-				<a href="tel:+254 722964824">+254 722964824</a></p>
+				<a href="tel:+254 722964824">+254 722538844/+254 24444297</a></p>
 				<p>Email:
 				<a href="mailto:protichcornelius@gmail.com">protichcornelius@gmail.com</a></p>
 			</div>

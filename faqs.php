@@ -5,7 +5,7 @@
                 <script type="text/javascript">
             (function () {
                 var options = {
-                    whatsapp: "+254722964824", // WhatsApp number
+                    whatsapp: "+254722538844", // WhatsApp number
                     call_to_action: "Message us", // Call to action
                     position: "left", // Position may be 'right' or 'left'
                 };
@@ -22,106 +22,101 @@
             })();
         </script>
 
-<div class="jumbotron"style="background-color:white;">
-<div class="container">
-	
-		<h2 style="padding-left: 20px;font-size: 40px;text-transform: uppercase;"><strong>FAQS</strong></h2>
-		<a style="color: black;"href="index.php">Mogish Movers</a>/FAQS
-	</div>
-</div>
-<hr>
-<br>
 
-<div class="container">
 
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
 
-<div class="container ">
-    <div class="panel-group" id="faqAccordion">
-        <div class="panel panel-default ">
-            <div class="panel-heading accordion-toggle question-toggle collapsed" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question0">
-                 <h4 class="panel-title">
-                    <a href="#" class="ing">Q: Does the size of the house matter?</a>
-              </h4>
 
-            </div>
-            <div id="question0" class="panel-collapse collapse" style="height: 0px;">
-                <div class="panel-body">
-                     <h5><span class="label label-primary">Answer</span></h5>
+<main class="mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-11 mx-auto">
+                    <h1 class="edica-page-title" data-aos="fade-up">FAQS</h1>
+<section class="edica-about-faq py-5 mb-5">
+                        
+                        
+                        <div class="accordion" id="edicaAboutFaqCollapse" role="tablist" aria-multiselectable="true">
+                            <div class="card" data-aos="fade-up" data-aos-delay="200">
+                                <div class="card-header" role="tab" id="edicaAboutFaq1">
+                                    <h5 class="mb-0">
+                                        <a data-toggle="collapse" data-parent="#edicaAboutFaqCollapse" href="#edicaAboutFaqContent1" aria-expanded="true" aria-controls="edicaAboutFaqContent1">
+                                            How long in advance should I contact Mogish Movers?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="edicaAboutFaqContent1" class="collapse in" role="tabpanel" aria-labelledby="edicaAboutFaq1">
+                                    <div class="card-body">
+                                        We are available in 24 hours contact us and we will get back to you as soon as possible
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card" data-aos="fade-up" data-aos-delay="300">
+                                <div class="card-header" role="tab" id="edicaAboutFaq2">
+                                    <h5 class="mb-0">
+                                        <a data-toggle="collapse" data-parent="#edicaAboutFaqCollapse" href="#edicaAboutFaqContent2" aria-expanded="false" aria-controls="edicaAboutFaqContent1">
+                                            What is the cost of your services?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="edicaAboutFaqContent2" class="collapse" role="tabpanel" aria-labelledby="edicaAboutFaq2">
+                                    <div class="card-body">
+                                        Our prices vary depending on the size of the house.However, we offer fair rates on our prices as we work within your budget                                    </div>
+                                </div>
+                            </div>
+                            <div class="card" data-aos="fade-up" data-aos-delay="400">
+                                <div class="card-header" role="tab" id="edicaAboutFaq3">
+                                    <h5 class="mb-0">
+                                        <a data-toggle="collapse" data-parent="#edicaAboutFaqCollapse" href="#edicaAboutFaqContent3" aria-expanded="false" aria-controls="edicaAboutFaqContent1">
+                                            How long do i have to wait to get a quote?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="edicaAboutFaqContent3" class="collapse" role="tabpanel" aria-labelledby="edicaAboutFaq3">
+                                    <div class="card-body">
+                                        We work around the clock.Get in touch with us and we will get back to you as soon as possible
 
-                    <p>Yes, it absolutely does to enable us deliver quality service to our clients.                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card" data-aos="fade-up" data-aos-delay="500">
+                                <div class="card-header" role="tab" id="edicaAboutFaq4">
+                                    <h5 class="mb-0">
+                                        <a data-toggle="collapse" data-parent="#edicaAboutFaqCollapse" href="#edicaAboutFaqContent4" aria-expanded="false" aria-controls="edicaAboutFaqContent1">
+                                            Where are you located?
+                                        </a>
+                                    </h5>
+                                </div>
+                                <div id="edicaAboutFaqContent4" class="collapse" role="tabpanel" aria-labelledby="edicaAboutFaq4">
+                                    <div class="card-body">
+                                       We are located at Buruburu, Nairobi, kenya. But we offer Moving services widely in kenya.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
                 </div>
             </div>
         </div>
-        <div class="panel panel-default ">
-            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question1">
-                 <h4 class="panel-title">
-                    <a href="#" class="ing">Q: What is the cost of your services?</a>
-              </h4>
-
-            </div>
-            <div id="question1" class="panel-collapse collapse" style="height: 0px;">
-                <div class="panel-body">
-                     <h5><span class="label label-primary">Answer</span></h5>
-
-                    <p>Our prices vary depending on the size of the house.However, we offer fair rates on our prices</p>
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-default ">
-            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question2">
-                 <h4 class="panel-title">
-                    <a href="#" class="ing">Q: How long do i have to wait to get a quote?</a>
-              </h4>
-
-            </div>
-            <div id="question2" class="panel-collapse collapse" style="height: 0px;">
-                <div class="panel-body">
-                     <h5><span class="label label-primary">Answer</span></h5>
-
-                    <p>We work around the clock. When you you request a quote we will get back to you as soon as possible</p>
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-default ">
-            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question3">
-                 <h4 class="panel-title">
-                    <a href="#" class="ing">Q: Where are you located?</a>
-              </h4>
-
-            </div>
-            <div id="question3" class="panel-collapse collapse" style="height: 0px;">
-                <div class="panel-body">
-                     <h5><span class="label label-primary">Answer</span></h5>
-
-                    <p>We are located at buruburu, Nairobi, kenya. </p>
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-default ">
-            <div class="panel-heading accordion-toggle collapsed question-toggle" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question3">
-                 <h4 class="panel-title">
-                    <a href="#" class="ing">Q: How secure are your services during the Covid-19 pandemic?</a>
-              </h4>
-
-            </div>
-            <div id="question3" class="panel-collapse collapse" style="height: 0px;">
-                <div class="panel-body">
-                     <h5><span class="label label-primary">Answer</span></h5>
-
-                    <p>We have trained employees who can handle the work folloring all the safety guidelines to avoid the spread of covid-19. We have equiped our employees with safety measures to ensure the safety of our clients and our employees.</p>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-    <!--/panel-group-->
-</div>
+    </main>
 
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="container">
 	<h2 style="text-align: center;color:blue;">...Relocation Wizards...</h2>
@@ -130,6 +125,15 @@
 <br>
 
 
-
+<script src="assets/vendors/popper.js/popper.min.js"></script>
+    <script src="assets/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="assets/vendors/aos/aos.js"></script>
+    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script>
+        AOS.init({
+            duration: 2000
+        });
+      </script>
 
 <?php include 'footer.php'?>
